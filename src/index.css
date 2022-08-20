@@ -5,9 +5,27 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #293462;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.App {
+  margin: 200px auto;
+  
+}
+
+h1 {
+  padding: 20px;
+  font-family: Cursive;
+  font-weight: bolder;
+  color: White;
+  font-size: 80px;
+}
+
+button {
+  width: 23%;
 }
